@@ -14,3 +14,19 @@ C:\Users\AVEVA\source\repos\smiqs\smiqs\smiqs\obj\Debug\netstandard2.0\XamlC.sta
 C:\Users\AVEVA\source\repos\smiqs\smiqs\smiqs\obj\Debug\netstandard2.0\smiqs.dll
 C:\Users\AVEVA\source\repos\smiqs\smiqs\smiqs\obj\Debug\netstandard2.0\ref\smiqs.dll
 C:\Users\AVEVA\source\repos\smiqs\smiqs\smiqs\obj\Debug\netstandard2.0\smiqs.pdb
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\bin\Debug\netstandard2.0\smiqs.deps.json
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\bin\Debug\netstandard2.0\smiqs.dll
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\bin\Debug\netstandard2.0\ref\smiqs.dll
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\bin\Debug\netstandard2.0\smiqs.pdb
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\smiqs.csprojAssemblyReference.cache
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\View\NewSubscriptionPage.xaml.g.cs
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\View\SubscriptionsPage.xaml.g.cs
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\smiqs.AssemblyInfoInputs.cache
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\smiqs.AssemblyInfo.cs
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\smiqs.csproj.CoreCompileInputs.cache
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\smiqs.dll
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\ref\smiqs.dll
+C:\Users\AVEVA\Documents\GitProjects\Smiqs Mobile App\smiqs\smiqs\obj\Debug\netstandard2.0\smiqs.pdb
