@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>821324167411-08lsnkt1irm8fniv57uektfujtclj5b7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.821324167411-08lsnkt1irm8fniv57uektfujtclj5b7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>821324167411-u9jauqsao9fkr2gtnjvhn8nup0j7eia6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBplJntauLVhC9p4ILcp-b4Gc0XLHpUkhA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>821324167411</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartiqs.smiqs</string>
+	<key>PROJECT_ID</key>
+	<string>smartiqs</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartiqs.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:821324167411:ios:da3b7631f782df3c77df86</string>
+	<key>DATABASE_URL</key>
+	<string>https://smartiqs.firebaseio.com</string>
+</dict>
+</plist>

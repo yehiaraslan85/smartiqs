@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yqeaOoMX0LVr8UyT9+7EPSzLu3f1qnbe1W+NJQ/vWN0kyWzrr4VdqrH6VL3Dm3Z6qvNxSAKLA1MdGp72UnhIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AVEVA\\Documents\\GitProjects\\Smiqs Mobile App\\smiqs\\smiqs\\smiqs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AVEVA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AVEVA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\AVEVA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\AVEVA\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\AVEVA\\.nuget\\packages\\xamarin.forms\\4.6.0.800\\xamarin.forms.4.6.0.800.nupkg.sha512"
+  ],
+  "logs": []
+}
