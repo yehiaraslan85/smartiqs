@@ -20,6 +20,7 @@ namespace smiqs.View
         {
             registerStackLayout.IsVisible = true;
             loginStackLayout.IsVisible = false;
+
         }
 
         void LoginLabel_Tapped(object sender, EventArgs args)
